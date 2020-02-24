@@ -1,0 +1,9 @@
+﻿/*
+ * UI_Dialogue에 넣어 줄 상황을 나타내는 상황 열거체 입니다.
+ */
+
+
+public enum Circumstance
+{
+    DUMMY, DEFAULT, START_1, START_2, START_3, START_4, STRIKE, SAMEBUTTON_1, SAMEBUTTON_2, SAMEBUTTON_3, ENGINECHANGED, ENGINE_1OFF, ENGINE_2OFF, ENGINE_3OFF, ALERT
+}
