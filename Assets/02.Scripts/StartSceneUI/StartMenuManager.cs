@@ -13,7 +13,7 @@ public class StartMenuManager : MonoBehaviour
 {
     private void Awake()
     {
-        //Screen.SetResolution(1920, 1080, true);
+        Screen.SetResolution(1024, 768, true);
 
         //출처: https://samablog.tistory.com/143 [사마사마의 IT이야기]
 
